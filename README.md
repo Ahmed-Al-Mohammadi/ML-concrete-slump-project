@@ -102,13 +102,18 @@ Jupyter Notebook
 
 pandas, numpy, scikit-learn, matplotlib, seaborn
 
+## Repository Structure
+```
+
 ML-concrete-slump-project/
-├── Final_Project.ipynb        # Main notebook with analysis
+├── Final\_Project.ipynb        # Main notebook with analysis
 ├── data/                      # Dataset (if included)
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
 └── outputs/                   # Generated plots/models (optional)
 
+```
+```
 
 
 ---
