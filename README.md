@@ -111,12 +111,5 @@ ML-concrete-slump-project/
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
 └── outputs/                   # Generated plots/models (optional)
-
-```
-
-
-
----
-
-Do you want me to also **generate a `requirements.txt` file** automatically from your notebook so your repo looks even more professional?
+```Do you want me to also **generate a `requirements.txt` file** automatically from your notebook so your repo looks even more professional?
 
